@@ -2,3 +2,4 @@
 <?php
 phpinfo();
 ?>
+<h2>kafedra vt</h2>
